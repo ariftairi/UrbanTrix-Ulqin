@@ -10,7 +10,7 @@ export default class Header extends Component {
                         <a href="/">
                             <img src={Ulqin} alt="Logo" width="170" height="150" className="logg"></img></a>
                         <p className="header-title">ULQIN</p>
-                        <h3>Restaurant & Pasticeri</h3>
+                        <h3 className="category">Restaurant & Pasticeri</h3>
                     </div>
                 </div >
             </div >

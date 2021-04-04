@@ -45,37 +45,37 @@ export default class coldDrinks extends Component {
                 {
                     emri: "COCA COLA",
                     perbersit: "",
-                    cmimi: "50",
+                    cmimi: "60",
                     image: cola,
                 },
                 {
                     emri: "FANTA",
                     perbersit: "",
-                    cmimi: "50",
+                    cmimi: "60",
                     image: fanta,
                 },
                 {
                     emri: "STRUMKA",
                     perbersit: "",
-                    cmimi: "50",
+                    cmimi: "60",
                     image: strumka,
                 },
                 {
                     emri: "SCHWEPPES",
                     perbersit: "",
-                    cmimi: "50",
+                    cmimi: "60",
                     image: schweppes,
                 },
                 {
                     emri: "SHWEPPES TONIC",
                     perbersit: "",
-                    cmimi: "50",
+                    cmimi: "60",
                     image: tonic,
                 },
                 {
                     emri: "SPRITE",
                     perbersit: "",
-                    cmimi: "50",
+                    cmimi: "60",
                     image: sprite,
                 },
                 {

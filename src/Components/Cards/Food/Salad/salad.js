@@ -18,31 +18,31 @@ export default class Burgers extends Component {
         {
           emri: "SALLATË SHOPE",
           perbersit: "Domate, Kastravec, Djath",
-          cmimi: "90",
+          cmimi: "110",
           image: shopska,
         },
         {
           emri: "SALLATË E PERZIER",
           perbersit: "Lakër, Marullë, Domate, Kastravec, Karrota, Sos i bardhë",
-          cmimi: "90",
+          cmimi: "110",
           image: sallateperzier,
         },
         {
           emri: "SALLATË GREKE",
           perbersit: "Domate, Kastravec, Qepë, Ullinj, Djath",
-          cmimi: "90",
+          cmimi: "110",
           image: greke,
         },
         {
           emri: "SALLATË TONO",
           perbersit: "Marullë, Tono, Qepë",
-          cmimi: "110",
+          cmimi: "130",
           image: tono,
         },
         {
           emri: "SALLATË VERORE",
           perbersit: "Filetë Pule, Marullë, Domate, Kastravec, Karrotë",
-          cmimi: "160",
+          cmimi: "180",
           image: verore,
         },
         {
@@ -55,7 +55,7 @@ export default class Burgers extends Component {
         {
           emri: "SALLATË ULQIN",
           perbersit: "Proshut, Djath, Marullë, Domate, Karrotë, Ulinj",
-          cmimi: "170",
+          cmimi: "180",
           image: Salad,
         },
       ],

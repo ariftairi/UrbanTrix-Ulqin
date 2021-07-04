@@ -14,42 +14,51 @@ export default class Pasta extends Component {
     this.state = {
       Pasta: [
         {
-          emri: "AGLIO E OLIO",
-          perbersit: "Vaj ulliri dhe hudhër",
-          cmimi: "140",
-          image: aglio,
-        },
-        {
           emri: "ARABIATA",
           perbersit: "Salcë domatesh, Hudhër, Ullinjë, Djegës",
-          cmimi: "160",
+          cmimi: "180",
           image: arabiata,
         },
         {
-          emri: "NAPOLI",
-          perbersit: "Sallcë domatesh",
-          cmimi: "140",
-          image: napoli,
-        },
-
-        {
-          emri: "BOLOGNESE",
-          perbersit: "Salcë domatesh, Mish i bluar, Qepë",
-          cmimi: "180",
-          image: bolognese,
-        },
+          emri: "AGLIO E OLIO",
+          perbersit: "Vaj ulliri dhe hudhër",
+          cmimi: "160",
+          image: aglio,
+        },       
         {
           emri: "KARBONARA",
           perbersit: "Sos këpurdhash, Salcë, Proshutë",
-          cmimi: "200",
+          cmimi: "240",
           image: karbonara,
+        },
+        {
+          emri: "BOLOGNESE",
+          perbersit: "Salcë domatesh, Mish i bluar, Qepë",
+          cmimi: "200",
+          image: bolognese,
         },
         {
           emri: "FRUTA DETI",
           perbersit: "Salcë domatesh, Fruta deti",
-          cmimi: "260",
+          cmimi: "280",
           image: frutadeti,
         },
+        {
+          emri: "FILET PULE",
+          perbersit: "Sallcë domatesh",
+          cmimi: "260",
+          image: napoli,
+        },
+        {
+          emri: "TONO",
+          perbersit: "Sallcë domatesh",
+          cmimi: "220",
+          image: napoli,
+        },
+
+      
+        
+       
       ],
     };
   }

@@ -29,50 +29,50 @@ export default class Pizza extends Component {
                 {
                     emri: "PIZZA MARGARITA",
                     perbersit: "Salcë domatesh, Kaçkavall",
-                    cmimi: "160",
+                    cmimi: "170",
                     image : margarita
                 },
                 {
                     emri: "PIZZA PAPRIKA",
                     perbersit: "Salcë domatesh, Kaçkavall, Speca",
-                    cmimi: "180",
+                    cmimi: "190",
                     image : paprika
                 },
                 {
                     emri: "PIZZA SALAMI",
                     perbersit: "Salcë domatesh, Kaçkavall, Salamë",
-                    cmimi: "180",
+                    cmimi: "200",
                     image : salam
                 },
                 {
                     emri: "PIZZA FUNGI",
                     perbersit: "Salcë domatesh, Kaçkavall, Këpurdha",
-                    cmimi: "180",
+                    cmimi: "190",
                     image : fungi
                     
                 },
                 {
                     emri: "PIZZA VEGJETARIANE",
                     perbersit: "Salcë domatesh, Kaçkavall, Speca, Brokoli, Këpurdha",
-                    cmimi: "200",
+                    cmimi: "220",
                     image : veg
                 },
                 {
                     emri: "PIZZA PROSHUTE",
                     perbersit: "Salcë domatesh, Kaçkavall, Proshutë",
-                    cmimi: "220",
+                    cmimi: "230",
                     image : proshute
                 },
                 {
                     emri: "PIZZA SUXHUK",
                     perbersit: "Salcë domatesh, Kaçkavall, Suxhuk Bosne",
-                    cmimi: "220",
+                    cmimi: "230",
                     image : suxhuk
                 },                
                 {
                     emri: "PIZZA TONO",
                     perbersit: "Salcë domatesh, Kaçkavall, Tono, Qepë",
-                    cmimi: "220",
+                    cmimi: "230",
                     image : tono
                 },
                 {
@@ -84,43 +84,43 @@ export default class Pizza extends Component {
                 {
                     emri: "PIZZA E PËRZIER",
                     perbersit: "Salcë domatesh, Kaçkavall, Proshutë, Salamë",
-                    cmimi: "240",
+                    cmimi: "250",
                     image : mix
                 },
                 {
                     emri: "PIZZA 4 STINËT",
                     perbersit: "Salcë domatesh, Kaçkavall, Broccoli, Perime",
-                    cmimi: "240",
+                    cmimi: "260",
                     image : stinet
                 },
                 {
-                    emri: "PIZZA SUXHUK-RUCCOLA",
+                    emri: "PIZZA RUCCOLA",
                     perbersit: "Salcë domatesh, Kaçkavall, Suxhuk, Ruccola",
-                    cmimi: "250",
+                    cmimi: "270",
                     image : ruccola
                 },
                 {
                     emri: "PIZZA 4 DJATHRAT",
                     perbersit: "Salcë domatesh, 4 Lloje djathrash",
-                    cmimi: "250",
+                    cmimi: "260",
                     image : djathra
                 },
                 {
                     emri: "PIZZA ULQIN",
                     perbersit: "Salcë domatesh, Kaçkavall, Proshutë, Suxhuk, Salamë, Këpurdha, Vezë",
-                    cmimi: "260",
+                    cmimi: "270",
                     image : ulqin
                 },
                 {
                     emri: "PIZZA ME BIFTEK",
                     perbersit: "Salcë domatesh, Kaçkavall, Biftek",
-                    cmimi: "330",
+                    cmimi: "350",
                     image : biftek
                 },
                 {
                     emri: "PIZZA ME FRUTA DETI",
                     perbersit: "Salcë domatesh, Kaçkavall, Fruta deti",
-                    cmimi: "350",
+                    cmimi: "300",
                     image : frutadeti
                 },
             ]

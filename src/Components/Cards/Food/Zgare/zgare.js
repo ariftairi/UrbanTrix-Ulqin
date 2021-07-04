@@ -40,31 +40,31 @@ export default class Burgers extends Component {
         {
           emri: "HAMBURGER",
           perbersit: "",
-          cmimi: "80",
+          cmimi: "100",
           image: burg,
         },
         {
           emri: "HAMBURGER ME STEK",
           perbersit: "",
-          cmimi: "90",
+          cmimi: "110",
           image: chickenburger,
         },
         {
           emri: "OMLET ME DJATH",
           perbersit:"",
-          cmimi: "100",
+          cmimi: "110",
           image: omletmedjath,
         },
         {
           emri: "OMLET ME SUXHUK",
           perbersit: "",
-          cmimi: "120",
+          cmimi: "140",
           image: mesuxhuk,
         },
         {
           emri: "OMLET ME PROSHUTË",
           perbersit: "",
-          cmimi: "120",
+          cmimi: "140",
           image: meproshut,
         },
         {
@@ -82,7 +82,7 @@ export default class Burgers extends Component {
         {
           emri: "10 QEBAP",
           perbersit: "Në prush",
-          cmimi: "160",
+          cmimi: "180",
           image: qebap10,
         },
         {
@@ -94,31 +94,31 @@ export default class Burgers extends Component {
         {
           emri: "STEK PULE",
           perbersit: "Stek pule",
-          cmimi: "170",
+          cmimi: "190",
           image: steak,
         },
         {
           emri: "HAMBURGER MENU",
           perbersit: "Hamburger, Pomfrit, Coca Cola",
-          cmimi: "160",
+          cmimi: "200",
           image: burgermenu,
         },
         {
           emri: "HAMBURGER ME STEK MENU",
           perbersit: "Hamburger, Pomfrit, Coca Cola",
-          cmimi: "170",
+          cmimi: "210",
           image: chickenmenu,
         },
         {
           emri: "PLESKAVICË SHARRI",
           perbersit: "Porcion",
-          cmimi: "180",
+          cmimi: "210",
           image: sharri,
         },
         {
           emri: "STEK I MARINUAR",
           perbersit: "Stek pule i marinuar ",
-          cmimi: "200",
+          cmimi: "210",
           image: stekimarinuar,
         },
         {
@@ -130,13 +130,13 @@ export default class Burgers extends Component {
         {
           emri: "STEK ME SOS",
           perbersit: "Stek pule me sos këpurdhash",
-          cmimi: "240",
+          cmimi: "260",
           image: steakwithsos,
         },
         {
           emri: "BËRXOLLË VIÇI",
           perbersit: "Bërxollë viçi me garnir",
-          cmimi: "430",
+          cmimi: "450",
           image: berxolla,
         },
         {
@@ -148,13 +148,13 @@ export default class Burgers extends Component {
         {
           emri: "MISH VIÇI",
           perbersit: "Mish nga viçi",
-          cmimi: "450",
+          cmimi: "470",
           image: mishvici,
         },
         {
           emri: "ZGARË E PËRZIER",
           perbersit: "Bërxollë, Stek pule, Suxhuk",
-          cmimi: "440",
+          cmimi: "480",
           image: zgareperzier,
         },
         

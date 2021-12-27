@@ -22,7 +22,7 @@
     "react-modal-image": "^2.5.0",
     "react-responsive-carousel": "^3.2.11",
     "react-router-dom": "^5.2.0",
-    "react-scripts": "4.0.1",
+    "react-scripts": "^5.0.0",
     "reactstrap": "^8.7.1",
     "web-vitals": "^0.2.4"
   },

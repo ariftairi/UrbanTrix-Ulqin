@@ -146,7 +146,7 @@ export default class Pizza extends Component {
                                         <hr />
                                         <p style={{ fontSize: "12px", letterSpacing: "1px", fontStyle: "italic" }}>
                                             {items.perbersit}</p>
-                                        <footer className="blockquote-footer">{items.cmimi} Den</footer>
+                                        {/* <footer className="blockquote-footer">{items.cmimi} Den</footer> */}
                                     </div>
                                 </div>
                             </div>

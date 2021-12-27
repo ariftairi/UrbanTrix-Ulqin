@@ -19,7 +19,6 @@ export default class Coffee extends Component {
         {
           emri: "ESPRESO",
           perbersit: "",
-          cmimi: "30",
           image: espreso,
         },
         {
@@ -90,9 +89,9 @@ export default class Coffee extends Component {
                     >
                       {items.perbersit}
                     </p>
-                    <footer className="blockquote-footer">
+                    {/* <footer className="blockquote-footer">
                       {items.cmimi} Den
-                    </footer>
+                    </footer> */}
                   </div>
                 </div>
               </div>

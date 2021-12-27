@@ -57,9 +57,9 @@ export default class hotDrinks extends Component {
                     >
                       {items.perbersit}
                     </p>
-                    <footer className="blockquote-footer">
+                    {/* <footer className="blockquote-footer">
                       {items.cmimi} Den
-                    </footer>
+                    </footer> */}
                   </div>
                 </div>
               </div>
